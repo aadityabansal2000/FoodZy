@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5cd6f2b1.css",
+    "main.js": "/static/js/main.9fbbef97.js",
+    "static/js/787.7fe0dfbc.chunk.js": "/static/js/787.7fe0dfbc.chunk.js",
+    "static/media/greentick.jpg": "/static/media/greentick.08d28c2a5cdfbc1bdd6a.jpg",
+    "static/media/logo.png": "/static/media/logo.88d22b4962fc3037b94e.png",
+    "index.html": "/index.html",
+    "static/media/thrash.svg": "/static/media/thrash.1b4cc7111259efce459b94bc216d71c6.svg",
+    "main.5cd6f2b1.css.map": "/static/css/main.5cd6f2b1.css.map",
+    "main.9fbbef97.js.map": "/static/js/main.9fbbef97.js.map",
+    "787.7fe0dfbc.chunk.js.map": "/static/js/787.7fe0dfbc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cd6f2b1.css",
+    "static/js/main.9fbbef97.js"
+  ]
+}
