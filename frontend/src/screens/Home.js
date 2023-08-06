@@ -53,8 +53,7 @@ export default function Home() {
                     <span className="carousel-control-next-icon" aria-hidden="true"></span>
                     <span className="visually-hidden">Next</span>
                 </button>
-            </div>
-            </div>
+            </div> </div>
       <div className='container'>
            {
           foodCat!==[]
